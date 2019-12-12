@@ -5,4 +5,4 @@ Download the folder and run command
 
 `node app.js`
 
-after that goto localhost:3000 and you will be able to see a random quote every time you refresh the browser
+after that goto `localhost:3000` and you will be able to see a random quote every time you refresh the browser
